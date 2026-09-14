@@ -22,6 +22,7 @@ workflow have been tested successfully in Picotron.
 ```text
 picotron-external-editor-template/
 ├── .gitignore
+├── LICENSE
 ├── sample.p64
 ├── src/
 │   ├── main.lua
