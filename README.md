@@ -17,6 +17,17 @@ The supplied cartridge already contains the circle at sprite `001`, drawn and
 saved in Picotron. Its visibility, movement, and the external multi-file Lua
 workflow have been tested successfully in Picotron.
 
+## Quick start
+
+1. Clone this repository, or create a new repository with **Use this template**.
+2. Place the project under Picotron's `/projects/` directory.
+3. If your project folder is not named `picotron-external-editor-template`,
+   open `sample.p64` in Picotron and update the `cp()` source path in the
+   cartridge's root `main.lua`.
+4. Open `sample.p64` in Picotron and press Ctrl+R.
+5. Edit files in `src/` with your external editor, save them, then press Ctrl+R
+   in Picotron to reload.
+
 ## Project structure
 
 ```text
