@@ -17,6 +17,10 @@ The supplied cartridge already contains the circle at sprite `001`, drawn and
 saved in Picotron. Its visibility, movement, and the external multi-file Lua
 workflow have been tested successfully in Picotron.
 
+For the official Picotron documentation on using external editors, see
+[Using External Editors](https://www.lexaloffle.com/dl/docs/picotron_manual.html#Using_External_Editors)
+in the Picotron manual.
+
 ## Quick start
 
 1. Clone this repository, or create a new repository with **Use this template**.
